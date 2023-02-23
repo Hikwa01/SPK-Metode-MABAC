@@ -1,4 +1,4 @@
 # SPK-Metode-MABAC
 Ini adalah project Kedua yang saya upload di github berisi tentang pemilihan jurusan menggunakan metode MABAC 
-Password Nya bisa Minta Via Email : Hikmaw1198@gmail.com
+untuk akses kunci filenya bisa hub email : Hikmaw1198@gmail.com
 Terima Kasih
